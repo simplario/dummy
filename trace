@@ -1,3 +1,4 @@
  > [Yaml] properly handle unindented collections
  > Add support SAPI cli-server
  > [DoctrineBundle][DoctrineMongoDBBundle] Makes it possible to use shortcuts for defining document or entity classes when using the DaoAuthenticationProvider
+ > Added an error message in the DebugClassLoader when using / instead of \.

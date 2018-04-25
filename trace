@@ -6,3 +6,4 @@
  > minor #21389 [Debug] Remove $context arg from handleError(), preparing for PHP 7.2 (nicolas-grekas)
  > [FrameworkBundle] fixed cahe:clear commands warmup
  > minor #13701 [2.7] [FrameworkBundle] bugfix in configuration for assets (phansys)
+ > [HttpKernel] Prevent a fatal error when DebugHandlersListener is used with a kernel with no terminateWithException() method

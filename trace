@@ -9,3 +9,4 @@
  > [HttpKernel] Prevent a fatal error when DebugHandlersListener is used with a kernel with no terminateWithException() method
  > Merge remote branch hidenorigoto/fix-profiler-header
  > capitalized boolean
+ > skip test with current phpunit bridge

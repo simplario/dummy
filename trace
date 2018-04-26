@@ -10,3 +10,4 @@
  > Merge remote branch hidenorigoto/fix-profiler-header
  > capitalized boolean
  > skip test with current phpunit bridge
+ > Revert "feature #24763 [Process] Allow writing portable "prepared" command lines (Simperfit)"

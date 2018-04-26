@@ -13,3 +13,4 @@
  > Revert "feature #24763 [Process] Allow writing portable "prepared" command lines (Simperfit)"
  > merged branch snc/patch-1 (PR #1790)
  > minor #14222 [Form] Fix declaration of legacy tests (nicolas-grekas)
+ > minor #21536 [TwigBridge] Add docblocks for Twig url and path function to improve ide completion (Haehnchen)

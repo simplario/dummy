@@ -17,3 +17,4 @@
  > [WebBundle] fixed default skeleton
  > feature #22382 [config] Add abbitily to deprecate a node (Nyholm, fabpot, sanpii)
  > minor #17095 [HttpFoundation] Added 451 status code (AndrewCarterUK)
+ > [Locale] Fixed failing tests

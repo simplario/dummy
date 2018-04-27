@@ -16,3 +16,4 @@
  > minor #21536 [TwigBridge] Add docblocks for Twig url and path function to improve ide completion (Haehnchen)
  > [WebBundle] fixed default skeleton
  > feature #22382 [config] Add abbitily to deprecate a node (Nyholm, fabpot, sanpii)
+ > minor #17095 [HttpFoundation] Added 451 status code (AndrewCarterUK)

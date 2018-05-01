@@ -22,3 +22,4 @@
  > [2.3] [HttpFoundation] fixed param order for Nginxs x-accel-redirect
  > [Console] Descriptors should use Helper::strlen
  > bug #21032 [SecurityBundle] Made collection of user provider unique when injecting them to the RemberMeService (lyrixx)
+ > [HttpKernel] fixed indentation of generated HTML in ExceptionHandler

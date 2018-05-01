@@ -19,3 +19,4 @@
  > minor #17095 [HttpFoundation] Added 451 status code (AndrewCarterUK)
  > [Locale] Fixed failing tests
  > Merge remote branch pborreli/fix-twibundle
+ > [2.3] [HttpFoundation] fixed param order for Nginxs x-accel-redirect

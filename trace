@@ -20,3 +20,4 @@
  > [Locale] Fixed failing tests
  > Merge remote branch pborreli/fix-twibundle
  > [2.3] [HttpFoundation] fixed param order for Nginxs x-accel-redirect
+ > [Console] Descriptors should use Helper::strlen

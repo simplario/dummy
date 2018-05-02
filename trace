@@ -25,3 +25,4 @@
  > [HttpKernel] fixed indentation of generated HTML in ExceptionHandler
  > Merge branch 3.0 into 3.1
  > bug #10863 [Security] Add check for supported attributes in AclVoter (artursvonda)
+ > merged branch lenar/non-blocking-process (PR #1403)

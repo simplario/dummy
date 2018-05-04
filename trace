@@ -32,3 +32,4 @@
  > [ExpressionLanguage] Fixed an issue with # characters in double quoted string literals
  > Refactored other PHPUnit method calls to work with namespaced PHPUnit 6
  > Consider KERNEL_DIR setting as relative to the PhpUnit XML file if it does not point to a directory (relative to the current cwd)
+ > minor #24374 [HttpFoundation] Return instance in StreamedResponse (abellion)

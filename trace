@@ -30,3 +30,4 @@
  > Merge branch 2.7
  > Added delta for Request comparison
  > [ExpressionLanguage] Fixed an issue with # characters in double quoted string literals
+ > Refactored other PHPUnit method calls to work with namespaced PHPUnit 6

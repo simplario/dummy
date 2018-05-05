@@ -38,3 +38,4 @@
  > minor #24858 [3.3] More docblock fixes (nicolas-grekas)
  > merged branch hhamon/request_getport_cleanup (PR #4052)
  > Merge branch 2.0
+ > [Framework] made a small optimization

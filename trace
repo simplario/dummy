@@ -35,3 +35,4 @@
  > minor #24374 [HttpFoundation] Return instance in StreamedResponse (abellion)
  > Merge branch 3.4
  > Update changelog - Redis profiler storage
+ > minor #24858 [3.3] More docblock fixes (nicolas-grekas)

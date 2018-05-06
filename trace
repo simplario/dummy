@@ -48,3 +48,4 @@
  > bug #11033 [Debug] fix wrong case mismatch exception (nicolas-grekas)
  > merged branch marcj/ticket_8589 (PR #8728)
  > Merge branch 3.4 into 4.0
+ > [MonologBundle] Added a proper exception when the handler type is invalid

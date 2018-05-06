@@ -42,3 +42,4 @@
  > [Translator] Cache does not take fallback locales into consideration
  > feature #26520 Added some HTML5 features to the Symfony Profiler (javiereguiluz)
  > Merge branch fix-csrf-default-2.3 into fix-csrf-default-2.4
+ > [FrameworkBundle] Display the controller class name in debug:router

@@ -44,3 +44,4 @@
  > Merge branch fix-csrf-default-2.3 into fix-csrf-default-2.4
  > [FrameworkBundle] Display the controller class name in debug:router
  > updated default configuration in skeleton
+ > merged branch drak/bc (PR #6422)

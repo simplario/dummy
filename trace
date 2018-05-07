@@ -50,3 +50,4 @@
  > Merge branch 3.4 into 4.0
  > [MonologBundle] Added a proper exception when the handler type is invalid
  > merged branch drak/session_tests (PR #3334)
+ > [Validator] fixed duplicate constraints with parent class interfaces

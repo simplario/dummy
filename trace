@@ -51,3 +51,4 @@
  > [MonologBundle] Added a proper exception when the handler type is invalid
  > merged branch drak/session_tests (PR #3334)
  > [Validator] fixed duplicate constraints with parent class interfaces
+ > Add time zone caster

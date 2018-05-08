@@ -57,3 +57,4 @@
  > [Process] Fix memory issue when using large input streams
  > [Routing] Ignore hidden directories when loading routes from annotations
  > dont call getTrustedHeaderName() if possible
+ > Merge remote branch vicb/cache_template

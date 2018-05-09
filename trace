@@ -62,3 +62,4 @@
  > [Console] simplified code (refs #9420)
  > minor #26049 [DI] minor: use a strict comparison in setDecoratedService (dunglas)
  > Updated CHANGELOG with GetSetNormalizer BC change
+ > [Debug] split tests for deprecated interfaces

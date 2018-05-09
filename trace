@@ -65,3 +65,4 @@
  > [Debug] split tests for deprecated interfaces
  > [FrameworkBundle] Dont clear app pools on cache:clear
  > fixed typo
+ > bug #17514 [2.7][Asset] Add defaultNull to version configuration (ewgRa)

@@ -59,3 +59,4 @@
  > dont call getTrustedHeaderName() if possible
  > Merge remote branch vicb/cache_template
  > minor #17747 [FrameworkBundle] Fix a typo (jakzal)
+ > [Console] simplified code (refs #9420)

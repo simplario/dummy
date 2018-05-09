@@ -63,3 +63,4 @@
  > minor #26049 [DI] minor: use a strict comparison in setDecoratedService (dunglas)
  > Updated CHANGELOG with GetSetNormalizer BC change
  > [Debug] split tests for deprecated interfaces
+ > [FrameworkBundle] Dont clear app pools on cache:clear

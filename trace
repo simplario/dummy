@@ -70,3 +70,4 @@
  > minor #26465 Default deleteFileAfterSend() to true (nowendwell)
  > merged branch hhamon/route_collection_better_exception_message (PR #3801)
  > minor #13430 [Yaml] execute cheaper checks before more expensive ones (xabbuh)
+ > [Form] Tweak to FileTypeTest to avoid warning

@@ -68,3 +68,4 @@
  > bug #17514 [2.7][Asset] Add defaultNull to version configuration (ewgRa)
  > bug #25297 [Validator] Fixed the @Valid(groups={"group"}) against null exception case (vudaltsov)
  > minor #26465 Default deleteFileAfterSend() to true (nowendwell)
+ > merged branch hhamon/route_collection_better_exception_message (PR #3801)

@@ -72,3 +72,4 @@
  > minor #13430 [Yaml] execute cheaper checks before more expensive ones (xabbuh)
  > [Form] Tweak to FileTypeTest to avoid warning
  > renamed reloadUserByAccount() to loadUserByAccount()
+ > merged branch venu/ticket_8351#2.2 (PR #8421)

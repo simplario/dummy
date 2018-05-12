@@ -73,3 +73,4 @@
  > [Form] Tweak to FileTypeTest to avoid warning
  > renamed reloadUserByAccount() to loadUserByAccount()
  > merged branch venu/ticket_8351#2.2 (PR #8421)
+ > [HttpFoundation][File] Add flv file default extension

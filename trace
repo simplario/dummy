@@ -77,3 +77,4 @@
  > merged branch jakzal/2.3-form-button-fix (PR #8349)
  > [TwigBundle] simplified code
  > [FrameworkBundle] enable ErrorHandler in prod
+ > [BrowserKit] added the standard output when an error occurs during the request execution (it might contain very useful information for debugging)

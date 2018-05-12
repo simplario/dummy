@@ -76,3 +76,4 @@
  > [HttpFoundation][File] Add flv file default extension
  > merged branch jakzal/2.3-form-button-fix (PR #8349)
  > [TwigBundle] simplified code
+ > [FrameworkBundle] enable ErrorHandler in prod

@@ -74,3 +74,4 @@
  > renamed reloadUserByAccount() to loadUserByAccount()
  > merged branch venu/ticket_8351#2.2 (PR #8421)
  > [HttpFoundation][File] Add flv file default extension
+ > merged branch jakzal/2.3-form-button-fix (PR #8349)

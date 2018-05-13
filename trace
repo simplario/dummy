@@ -86,3 +86,4 @@
  > bug #25731 [HttpFoundation] Always call proxied handler::destroy() in StrictSessionHandler (nicolas-grekas)
  > [HttpKernel] fixed a test
  > [FrameworkBundle] moved router:debug and container:debug to use the compact layout
+ > merged branch bschussek/intl (PR #7386)

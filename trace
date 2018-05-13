@@ -79,3 +79,4 @@
  > [FrameworkBundle] enable ErrorHandler in prod
  > [BrowserKit] added the standard output when an error occurs during the request execution (it might contain very useful information for debugging)
  > [FrameworkBundle] simplified cache:clear and cache:warmup implementations
+ > updated VERSION for 2.8.29

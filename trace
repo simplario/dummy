@@ -84,3 +84,4 @@
  > reduced recursion when building DumperPrefixCollection
  > merged branch Aitboudad/patch-3 (PR #7941)
  > bug #25731 [HttpFoundation] Always call proxied handler::destroy() in StrictSessionHandler (nicolas-grekas)
+ > [HttpKernel] fixed a test

@@ -81,3 +81,4 @@
  > [FrameworkBundle] simplified cache:clear and cache:warmup implementations
  > updated VERSION for 2.8.29
  > [CssSelector] Removed useless else
+ > reduced recursion when building DumperPrefixCollection

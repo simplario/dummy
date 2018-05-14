@@ -89,3 +89,4 @@
  > merged branch bschussek/intl (PR #7386)
  > Fix for cache-key conflict when having a \Traversable as choices
  > [Console] added mb_detect_encoding when needed
+ > Fixed tests

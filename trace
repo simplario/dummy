@@ -87,3 +87,4 @@
  > [HttpKernel] fixed a test
  > [FrameworkBundle] moved router:debug and container:debug to use the compact layout
  > merged branch bschussek/intl (PR #7386)
+ > Fix for cache-key conflict when having a \Traversable as choices

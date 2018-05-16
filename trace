@@ -91,3 +91,4 @@
  > [Console] added mb_detect_encoding when needed
  > Fixed tests
  > [FrameworkBundle] Treat all log messages >=ERR as errors
+ > merged branch lsmith77/container_check_alias_in_has_method (PR #8252)

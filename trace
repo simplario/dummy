@@ -94,3 +94,4 @@
  > merged branch lsmith77/container_check_alias_in_has_method (PR #8252)
  > Remove deprecated each function
  > [DI] Restore skipping logic when autowiring getters
+ > bug #25325 [Yaml] do not evaluate PHP constant names (xabbuh)

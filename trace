@@ -95,3 +95,4 @@
  > Remove deprecated each function
  > [DI] Restore skipping logic when autowiring getters
  > bug #25325 [Yaml] do not evaluate PHP constant names (xabbuh)
+ > Merge branch 4.0

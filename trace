@@ -97,3 +97,4 @@
  > bug #25325 [Yaml] do not evaluate PHP constant names (xabbuh)
  > Merge branch 4.0
  > [VarDumper] replace VarDumperTestCase by trait
+ > added some tests for security/routing integration

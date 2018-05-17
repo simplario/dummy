@@ -98,3 +98,4 @@
  > Merge branch 4.0
  > [VarDumper] replace VarDumperTestCase by trait
  > added some tests for security/routing integration
+ > updated vendors for 2.0.10

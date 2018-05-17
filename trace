@@ -99,3 +99,4 @@
  > [VarDumper] replace VarDumperTestCase by trait
  > added some tests for security/routing integration
  > updated vendors for 2.0.10
+ > minor #21482 [FrameworkBundle] Fix tests (dunglas)

@@ -104,3 +104,4 @@
  > minor #15412 Remove skipping of tests based on ICU data version whenever possible (stof)
  > [Routing] removed unused variable
  > Merge branch 2.7 into 2.8
+ > [HttpKernel] Add a better error messages when passing a private or non-tagged controller

@@ -102,3 +102,4 @@
  > minor #21482 [FrameworkBundle] Fix tests (dunglas)
  > bug #22615 [DI] Defaults to public=false in all service config files (nicolas-grekas)
  > minor #15412 Remove skipping of tests based on ICU data version whenever possible (stof)
+ > [Routing] removed unused variable

@@ -100,3 +100,4 @@
  > added some tests for security/routing integration
  > updated vendors for 2.0.10
  > minor #21482 [FrameworkBundle] Fix tests (dunglas)
+ > bug #22615 [DI] Defaults to public=false in all service config files (nicolas-grekas)

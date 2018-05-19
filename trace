@@ -107,3 +107,4 @@
  > [HttpKernel] Add a better error messages when passing a private or non-tagged controller
  > minor #12058 [Doctrine][DependencyInjection] Make a test less fragile. (AlphaStream)
  > minor #13593 added missing deprecation notice when using the form_enctype function (fabpot)
+ > Merge branch 2.1

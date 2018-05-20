@@ -111,3 +111,4 @@
  > feature #21655 [PropertyInfo] Make classes final (GuilhemN)
  > Merge remote branch symfony/master into experimental
  > Display a better error design when the toolbar cannot be displayed
+ > merged branch bschussek/issue5458 (PR #5777)

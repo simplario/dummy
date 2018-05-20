@@ -114,3 +114,4 @@
  > merged branch bschussek/issue5458 (PR #5777)
  > merged branch SamsonIT/fixedMessedUpHeaders (PR #7189)
  > [TwigBridge] added missing transchoice filters whe extracting translations from templates
+ > Add a public modifier to an interface method

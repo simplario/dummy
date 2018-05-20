@@ -112,3 +112,4 @@
  > Merge remote branch symfony/master into experimental
  > Display a better error design when the toolbar cannot be displayed
  > merged branch bschussek/issue5458 (PR #5777)
+ > merged branch SamsonIT/fixedMessedUpHeaders (PR #7189)

@@ -116,3 +116,4 @@
  > [TwigBridge] added missing transchoice filters whe extracting translations from templates
  > Add a public modifier to an interface method
  > Merge branch 3.2
+ > Merge branch 2.7 into 2.8

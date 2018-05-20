@@ -109,3 +109,4 @@
  > minor #13593 added missing deprecation notice when using the form_enctype function (fabpot)
  > Merge branch 2.1
  > feature #21655 [PropertyInfo] Make classes final (GuilhemN)
+ > Merge remote branch symfony/master into experimental

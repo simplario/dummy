@@ -118,3 +118,4 @@
  > Merge branch 3.2
  > Merge branch 2.7 into 2.8
  > merged branch davefx/patch-1 (PR #7729)
+ > [WebProfilerBundle] Added a top left border radius to the minified to…

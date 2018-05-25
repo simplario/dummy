@@ -125,3 +125,4 @@
  > changed bytes conversion method
  > Merge branch 2.7
  > defined parameters to avoid unmet dependency
+ > bug #10245 [DomCrawler] Added support for <area> tags to be treated as links (shamess)

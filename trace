@@ -126,3 +126,4 @@
  > Merge branch 2.7
  > defined parameters to avoid unmet dependency
  > bug #10245 [DomCrawler] Added support for <area> tags to be treated as links (shamess)
+ > Strict in_array check in Parser.php

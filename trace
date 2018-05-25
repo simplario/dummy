@@ -122,3 +122,4 @@
  > [DoctrineBridge] Refactored the query sanitization in the collector
  > minor #20104 [TwigBundle] Adjust CacheWarmingTest for TemplateCacheWarmer introduced in 2.8 (tucksaun)
  > fixed typo
+ > changed bytes conversion method

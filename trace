@@ -129,3 +129,4 @@
  > Strict in_array check in Parser.php
  > [Form] Removed remaining deprecation notices in the test suite
  > [2.8][VarDumper] Fix PHP 7.1 compat
+ > Added unit tests

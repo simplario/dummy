@@ -130,3 +130,4 @@
  > [Form] Removed remaining deprecation notices in the test suite
  > [2.8][VarDumper] Fix PHP 7.1 compat
  > Added unit tests
+ > [Templating] added an output method to Engine

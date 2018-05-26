@@ -134,3 +134,4 @@
  > [Form] Renamed Form::getView() to createView() to clearly indicate that each call returns a new object
  > minor #19459 [EventDispatcher] Removed unused variable (zomberg)
  > [FrameworkBundle] Refactor assets:install command and apply SymfonyStyle
+ > merged branch stof/acl_schemas (PR #3554)

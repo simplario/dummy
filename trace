@@ -131,3 +131,4 @@
  > [2.8][VarDumper] Fix PHP 7.1 compat
  > Added unit tests
  > [Templating] added an output method to Engine
+ > [Form] Renamed Form::getView() to createView() to clearly indicate that each call returns a new object

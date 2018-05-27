@@ -151,3 +151,4 @@
  > [DoctrineBundle] removed a reference to doctrine.orm.%s_entity_manager
  > use core StringUtils to compare hashes
  > [HttpKernel] tweaked previous commit
+ > merged branch drak/session_flashmessages (PR #3267)

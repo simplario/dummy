@@ -145,3 +145,4 @@
  > fixed bytes conversion when used on 32-bits systems
  > minor #17717 fixed codeblock in UPGRADE-3.1.md (eXtreme)
  > [DI] Reference tagged services in config
+ > Minor doc fix.

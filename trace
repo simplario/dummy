@@ -147,3 +147,4 @@
  > [DI] Reference tagged services in config
  > Minor doc fix.
  > merged branch symfony/event_dispatcher_classes_move (PR #3760)
+ > [HttpKernel] Lazy load argument value resolvers

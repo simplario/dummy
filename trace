@@ -150,3 +150,4 @@
  > [HttpKernel] Lazy load argument value resolvers
  > [DoctrineBundle] removed a reference to doctrine.orm.%s_entity_manager
  > use core StringUtils to compare hashes
+ > [HttpKernel] tweaked previous commit

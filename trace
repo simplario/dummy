@@ -141,3 +141,4 @@
  > [Form] [DoctrineBridge] Move EntityType and DoctrineTypeLoader into Doctrine Bridge
  > [DI] Remove deprecated generating a dumped container without populating the method map
  > Fixed fatal error in normalize/denormalizeObject.
+ > fixed misleading doc block

@@ -142,3 +142,4 @@
  > [DI] Remove deprecated generating a dumped container without populating the method map
  > Fixed fatal error in normalize/denormalizeObject.
  > fixed misleading doc block
+ > fixed bytes conversion when used on 32-bits systems

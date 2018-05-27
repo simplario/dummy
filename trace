@@ -152,3 +152,4 @@
  > use core StringUtils to compare hashes
  > [HttpKernel] tweaked previous commit
  > merged branch drak/session_flashmessages (PR #3267)
+ > Merge branch 2.7 into 2.8

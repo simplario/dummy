@@ -146,3 +146,4 @@
  > minor #17717 fixed codeblock in UPGRADE-3.1.md (eXtreme)
  > [DI] Reference tagged services in config
  > Minor doc fix.
+ > merged branch symfony/event_dispatcher_classes_move (PR #3760)

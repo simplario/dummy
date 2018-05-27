@@ -139,3 +139,4 @@
  > fixed markup
  > merged branch Seldaek/parambag (PR #4220)
  > [Form] [DoctrineBridge] Move EntityType and DoctrineTypeLoader into Doctrine Bridge
+ > [DI] Remove deprecated generating a dumped container without populating the method map

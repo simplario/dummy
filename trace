@@ -157,3 +157,4 @@
  > [Filesystem] added exists method
  > Lines length should be 80 or less characters
  > [HttpFoundation] Remove temporary files after tests run
+ > [TwigBridge] use proper class to fetch asset version strategy property

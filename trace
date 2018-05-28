@@ -165,3 +165,4 @@
  > [Locale] use is64Bit helper for StubIntlDateFormatterTest
  > bug #18289 [FrameworkBundle] Return the invokable service if its name is the class name (dunglas)
  > [Translation] Added YamlFileLoader
+ > [Form] Moved creation of empty data to Form to clean up DataMapperInterface

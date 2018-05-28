@@ -162,3 +162,4 @@
  > Lower complexity of Form:isValid()
  > minor #12895 [Security] Fixed typo in SecurityContext PHPDoc (althaus)
  > bug #13927 Fixing wrong variable name from #13519 (weaverryan)
+ > [Locale] use is64Bit helper for StubIntlDateFormatterTest

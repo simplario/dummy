@@ -160,3 +160,4 @@
  > [TwigBridge] use proper class to fetch asset version strategy property
  > bug #9443 [FrameworkBundle] Fixed the registration of validation.xml file when the form is disabled (hason)
  > Lower complexity of Form:isValid()
+ > minor #12895 [Security] Fixed typo in SecurityContext PHPDoc (althaus)

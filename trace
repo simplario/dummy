@@ -156,3 +156,4 @@
  > bug #10987 [DomCrawler] Fixed a forgotten case of complex XPath queries (stof)
  > [Filesystem] added exists method
  > Lines length should be 80 or less characters
+ > [HttpFoundation] Remove temporary files after tests run

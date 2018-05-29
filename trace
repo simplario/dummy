@@ -166,3 +166,4 @@
  > bug #18289 [FrameworkBundle] Return the invokable service if its name is the class name (dunglas)
  > [Translation] Added YamlFileLoader
  > [Form] Moved creation of empty data to Form to clean up DataMapperInterface
+ > bug #22900 [FrameworkBundle][Console] Fix the override of a command registered by the kernel (aaa2000)

@@ -170,3 +170,4 @@
  > minor #12171 [Profiler] Flexible height for resume box (to accommodate long urls) (adrianolek)
  > enforce memcached version to be 2.1.0
  > [Form] Removed useless code
+ > [Routing] fixed URL generation when a non-optional variable is empty

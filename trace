@@ -169,3 +169,4 @@
  > bug #22900 [FrameworkBundle][Console] Fix the override of a command registered by the kernel (aaa2000)
  > minor #12171 [Profiler] Flexible height for resume box (to accommodate long urls) (adrianolek)
  > enforce memcached version to be 2.1.0
+ > [Form] Removed useless code

@@ -167,3 +167,4 @@
  > [Translation] Added YamlFileLoader
  > [Form] Moved creation of empty data to Form to clean up DataMapperInterface
  > bug #22900 [FrameworkBundle][Console] Fix the override of a command registered by the kernel (aaa2000)
+ > minor #12171 [Profiler] Flexible height for resume box (to accommodate long urls) (adrianolek)

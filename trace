@@ -178,3 +178,4 @@
  > [Form] Refactored processing of the "empty_value" option in DateType
  > merged branch tystr/sanitize_queries_fix (PR #3032)
  > minor #13058 [2.3] [Console] remove « use » statement for PHP built-in exception classes. (hhamon)
+ > merged origin/master

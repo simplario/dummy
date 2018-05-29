@@ -176,3 +176,4 @@
  > fixed typos
  > minor #15672 [Intl] Fix test (nicolas-grekas)
  > [Form] Refactored processing of the "empty_value" option in DateType
+ > merged branch tystr/sanitize_queries_fix (PR #3032)

@@ -175,3 +175,4 @@
  > merged branch jfsimon/issue-7375 (PR #7394)
  > fixed typos
  > minor #15672 [Intl] Fix test (nicolas-grekas)
+ > [Form] Refactored processing of the "empty_value" option in DateType

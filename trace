@@ -179,3 +179,4 @@
  > merged branch tystr/sanitize_queries_fix (PR #3032)
  > minor #13058 [2.3] [Console] remove « use » statement for PHP built-in exception classes. (hhamon)
  > merged origin/master
+ > merged branch eriksencosta/icu-data-update (PR #5107)

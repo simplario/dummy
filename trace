@@ -184,3 +184,4 @@
  > deprecate finding deep items in request parameters
  > minor #11191 [Tests] fix tests due to recent changes in PHPs behavior (xabbuh)
  > propel/propel1 is now useless
+ > merged branch Seldaek/trans_charset (PR #2339)

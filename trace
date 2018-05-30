@@ -182,3 +182,4 @@
  > merged branch eriksencosta/icu-data-update (PR #5107)
  > [ClassLoader] tweaked public @api
  > deprecate finding deep items in request parameters
+ > minor #11191 [Tests] fix tests due to recent changes in PHPs behavior (xabbuh)

@@ -187,3 +187,4 @@
  > merged branch Seldaek/trans_charset (PR #2339)
  > [Routing] fix typo in phpdoc and make it more consistent
  > removed deprecated asset feature
+ > improves extensibility between bundles

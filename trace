@@ -190,3 +190,4 @@
  > improves extensibility between bundles
  > Support phpdbg SAPI in Debug::enable()
  > Remove obsolete PHPDoc from UriSigner
+ > Fixed some tests on Windows

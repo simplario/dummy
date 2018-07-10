@@ -189,3 +189,4 @@
  > removed deprecated asset feature
  > improves extensibility between bundles
  > Support phpdbg SAPI in Debug::enable()
+ > Remove obsolete PHPDoc from UriSigner

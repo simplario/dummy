@@ -193,3 +193,4 @@
  > Fixed some tests on Windows
  > Change few occurences of a public setUp() method to protected
  > [TwigBundle] Move the {% render ... %} node to a dedicated extension + Remove service container
+ > [BrowserKit] changed Cookie::fromString() to not take the secure setting into account if the URL is not present or is not HTTPS

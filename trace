@@ -191,3 +191,4 @@
  > Support phpdbg SAPI in Debug::enable()
  > Remove obsolete PHPDoc from UriSigner
  > Fixed some tests on Windows
+ > Change few occurences of a public setUp() method to protected

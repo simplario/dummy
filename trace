@@ -192,3 +192,4 @@
  > Remove obsolete PHPDoc from UriSigner
  > Fixed some tests on Windows
  > Change few occurences of a public setUp() method to protected
+ > [TwigBundle] Move the {% render ... %} node to a dedicated extension + Remove service container

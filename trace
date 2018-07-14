@@ -196,3 +196,4 @@
  > [BrowserKit] changed Cookie::fromString() to not take the secure setting into account if the URL is not present or is not HTTPS
  > minor #15711 removed some Form related deprecation notices (fabpot)
  > Merge branch 2.5 into 2.6
+ > feature #9434 moved logic for the session listeners into the HttpKernel component (fabpot)

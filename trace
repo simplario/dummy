@@ -198,3 +198,4 @@
  > Merge branch 2.5 into 2.6
  > feature #9434 moved logic for the session listeners into the HttpKernel component (fabpot)
  > [HttpKernel] simplified code
+ > Minor plural/singular change

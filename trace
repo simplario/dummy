@@ -201,3 +201,4 @@
  > Minor plural/singular change
  > minor #12787 [FrameworkBundle] Update deprecated service call (lrlopez)
  > added a priority for data collectors
+ > minor #13302 removed CHANGELOGs and UPGRADEs for 2.x versions (fabpot)

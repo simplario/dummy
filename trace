@@ -205,3 +205,4 @@
  > fixed small typo in UPGRADE-2.1.md
  > bug #21661 Fix Composer constraints (fabpot)
  > fixed CS
+ > bug #22715 [FrameworkBundle] remove Security deps from the require section (xabbuh)

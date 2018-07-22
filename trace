@@ -203,3 +203,4 @@
  > added a priority for data collectors
  > minor #13302 removed CHANGELOGs and UPGRADEs for 2.x versions (fabpot)
  > fixed small typo in UPGRADE-2.1.md
+ > bug #21661 Fix Composer constraints (fabpot)

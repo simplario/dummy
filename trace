@@ -200,3 +200,4 @@
  > [HttpKernel] simplified code
  > Minor plural/singular change
  > minor #12787 [FrameworkBundle] Update deprecated service call (lrlopez)
+ > added a priority for data collectors

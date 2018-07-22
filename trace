@@ -199,3 +199,4 @@
  > feature #9434 moved logic for the session listeners into the HttpKernel component (fabpot)
  > [HttpKernel] simplified code
  > Minor plural/singular change
+ > minor #12787 [FrameworkBundle] Update deprecated service call (lrlopez)

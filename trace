@@ -207,3 +207,4 @@
  > fixed CS
  > bug #22715 [FrameworkBundle] remove Security deps from the require section (xabbuh)
  > [Form] Refactored EntityChoiceField::processData() into individual class
+ > feature #16400 [3.0] [Templating] remove deprecated method (TomasVotruba)

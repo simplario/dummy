@@ -206,3 +206,4 @@
  > bug #21661 Fix Composer constraints (fabpot)
  > fixed CS
  > bug #22715 [FrameworkBundle] remove Security deps from the require section (xabbuh)
+ > [Form] Refactored EntityChoiceField::processData() into individual class

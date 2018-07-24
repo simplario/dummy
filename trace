@@ -209,3 +209,4 @@
  > [Form] Refactored EntityChoiceField::processData() into individual class
  > feature #16400 [3.0] [Templating] remove deprecated method (TomasVotruba)
  > [DX][Cache] Set right type hint for cacheItem on AdapterInterface getters
+ > Merge branch 2.7 into 2.8

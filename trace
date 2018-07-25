@@ -210,3 +210,4 @@
  > feature #16400 [3.0] [Templating] remove deprecated method (TomasVotruba)
  > [DX][Cache] Set right type hint for cacheItem on AdapterInterface getters
  > Merge branch 2.7 into 2.8
+ > bug #20816 [FrameworkBundle] Removed kernel.debug from the cache pool namespace seed (Sander Toonen)

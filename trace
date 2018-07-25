@@ -212,3 +212,4 @@
  > Merge branch 2.7 into 2.8
  > bug #20816 [FrameworkBundle] Removed kernel.debug from the cache pool namespace seed (Sander Toonen)
  > [TwigBundle] fixed cache problem for some global variables
+ > [Locale] renamed method

@@ -216,3 +216,4 @@
  > [TwigBundle] Fix trace to not show in at line when file/line are empty.
  > cached files rely on umask
  > [Yaml] Allow using _ in some numeric notations
+ > [Console] added some missing method in InputInterface (closes #3098)

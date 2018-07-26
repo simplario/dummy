@@ -215,3 +215,4 @@
  > [Locale] renamed method
  > [TwigBundle] Fix trace to not show in at line when file/line are empty.
  > cached files rely on umask
+ > [Yaml] Allow using _ in some numeric notations

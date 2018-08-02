@@ -219,3 +219,4 @@
  > [Console] added some missing method in InputInterface (closes #3098)
  > [FrameworkBundle] removed two parameters
  > [Validator] fixed CS, updated CHANGELOG
+ > bug #18688 [HttpFoundation] Warning when request has both Forwarded and X-Forwarded-For (magnusnordlander)

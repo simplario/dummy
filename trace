@@ -218,3 +218,4 @@
  > [Yaml] Allow using _ in some numeric notations
  > [Console] added some missing method in InputInterface (closes #3098)
  > [FrameworkBundle] removed two parameters
+ > [Validator] fixed CS, updated CHANGELOG

@@ -221,3 +221,4 @@
  > [Validator] fixed CS, updated CHANGELOG
  > bug #18688 [HttpFoundation] Warning when request has both Forwarded and X-Forwarded-For (magnusnordlander)
  > minor #14059 [DX]|Validator] Add PHPUnit hint in AbstractConstraintValidatorTest (lyrixx)
+ > bumped Symfony version to 2.2.10

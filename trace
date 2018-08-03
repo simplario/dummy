@@ -226,3 +226,4 @@
  > Merge remote branch bschussek/form-extensions
  > updated CHANGELOG for 2.8.35
  > [DependencyInjection] make paths relative to __DIR__ in the generated container
+ > minor #26907 [Messenger] Minor improvements and cleanup (yceruto)

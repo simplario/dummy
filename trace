@@ -223,3 +223,4 @@
  > minor #14059 [DX]|Validator] Add PHPUnit hint in AbstractConstraintValidatorTest (lyrixx)
  > bumped Symfony version to 2.2.10
  > [Framework] added the Symfony 2 full-stack framework code (Preview Release - alpha)
+ > Merge remote branch bschussek/form-extensions

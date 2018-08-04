@@ -228,3 +228,4 @@
  > [DependencyInjection] make paths relative to __DIR__ in the generated container
  > minor #26907 [Messenger] Minor improvements and cleanup (yceruto)
  > [DoctrineMongoDBBundle] fixed merge problem
+ > merged branch mikeSimonson/patch-1 (PR #8247)
